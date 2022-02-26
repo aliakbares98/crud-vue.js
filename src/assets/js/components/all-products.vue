@@ -4,8 +4,7 @@
 
     <p>
       <router-link :to="{ name: 'create_product' }" class="btn btn-primary"
-        >Create Product</router-link
-      >
+        >Create Product</router-link >
     </p>
 
     <div class="form-group">
