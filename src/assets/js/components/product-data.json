@@ -1,0 +1,37 @@
+[
+    {
+        "id": 5,
+        "name": "Laptop",
+        "price": "49.99"
+    },
+    {
+        "id": 44,
+        "name": "Fire Tablet, 7",
+        "price": "47.49"
+    },
+    {
+        "id": 5,
+        "name": "Kindle Paperwhitefff",
+        "price": "104.99"
+    },
+    {
+        "id": 54654,
+        "name": "aliakbar",
+        "price": "2000"
+    },
+    {
+        "id": 34354,
+        "name": "sdfg",
+        "price": "2000"
+    },
+    {
+        "id": 234,
+        "name": "sdfgdsfg",
+        "price": "2000"
+    },
+    {
+        "id": 12,
+        "name": "Amazon Echo, Blackdsfg",
+        "price": "149.99"
+    }
+]
